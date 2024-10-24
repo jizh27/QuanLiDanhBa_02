@@ -1,0 +1,11 @@
+com\btl02\view\LoginDialog.class
+module-info.class
+com\btl02\view\MainAppView.class
+com\btl02\App.class
+com\btl02\model\ContactManager.class
+com\btl02\view\ContactDetailView.class
+com\btl02\model\Contact.class
+com\btl02\view\ContactView.class
+com\btl02\model\UserDao.class
+com\btl02\controler\Controler.class
+com\btl02\SystemInfo.class
