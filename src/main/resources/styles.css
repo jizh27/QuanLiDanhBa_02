@@ -1,0 +1,62 @@
+.root {
+    -fx-background-color: #f0f4f8;
+    -fx-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.list-view {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #dcdfe3;
+    -fx-border-radius: 5px;
+    -fx-padding: 10px;
+}
+
+.list-cell {
+    -fx-padding: 8px;
+    -fx-background-color: #ffffff;
+    -fx-border-color: #e3e8ee;
+}
+
+.list-cell:focused,
+.list-cell:hover {
+    -fx-background-color: #90a6bb;
+}
+
+/*nút hành động */
+.button {
+    -fx-background-color: #0078d7;
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 14px;
+    -fx-border-radius: 5px;
+    -fx-padding: 8px 16px;
+    -fx-cursor: hand;
+    -fx-effect: dropshadow(one-pass-box, rgba(0, 0, 0, 0.2), 2, 0, 1, 1);
+}
+
+.button:hover {
+    -fx-background-color: #005a9e;
+}
+
+.button:focused {
+    -fx-background-color: #005a9e;
+}
+
+.button:pressed {
+    -fx-background-color: #00396d;
+}
+
+/*hộp văn bản tìm kiếm*/
+.text-field {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #cfd3d8;
+    -fx-border-radius: 5px;
+    -fx-padding: 6px;
+    -fx-font-size: 14px;
+}
+
+.vbox {
+    -fx-spacing: 10px;
+    -fx-padding: 20px;
+    -fx-background-color: #ffffff;
+    -fx-border-color: #dcdfe3;
+    -fx-border-radius: 5px;
+}
