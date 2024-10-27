@@ -1,6 +1,5 @@
 package com.btl02.model;
 
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -19,7 +18,6 @@ public class ContactManager {
         contacts.add(contact);
         return true; // Thêm thành công
     }
-    
 
     public void removeContact(Contact contact) {
         contacts.remove(contact);
@@ -38,19 +36,16 @@ public class ContactManager {
         }
         String lowerCaseQuery = query.toLowerCase();
         return contacts.stream()
-                .filter(contact -> contact.getFullName().toLowerCase().contains(lowerCaseQuery) ||
-                                   contact.getPhoneNumber().toLowerCase().contains(lowerCaseQuery))
-                .collect(Collectors.toList());
+                .filter(contact -> contact.getFullName().toLowerCase().contains(lowerCaseQuery) || contact.getPhoneNumber().toLowerCase().contains(lowerCaseQuery)).collect(Collectors.toList());
     }
 
     public List<Contact> getAllContacts() {
         return new ArrayList<>(contacts); // Trả về một bản sao của danh sách
     }
-    
+
     public boolean checkPhoneNumberExists(String phoneNumber) {
         return contacts.stream()
                 .anyMatch(contact -> contact.getPhoneNumber().equals(phoneNumber));
     }
-    
-}
 
+}

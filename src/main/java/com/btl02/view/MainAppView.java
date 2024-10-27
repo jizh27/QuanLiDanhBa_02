@@ -48,6 +48,7 @@ public final class MainAppView {
         root.setRight(buttonLayout);
 
         Scene scene = new Scene(root, 800, 600);
+        scene.getStylesheets().add(getClass().getResource("/styles.css").toExternalForm());
         stage.setScene(scene);
         refreshContactList();
     }
