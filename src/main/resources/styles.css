@@ -1,62 +1,37 @@
-.root {
-    -fx-background-color: #f0f4f8;
-    -fx-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-.list-view {
-    -fx-background-color: #ffffff;
-    -fx-border-color: #dcdfe3;
-    -fx-border-radius: 5px;
-    -fx-padding: 10px;
-}
-
-.list-cell {
-    -fx-padding: 8px;
-    -fx-background-color: #ffffff;
-    -fx-border-color: #e3e8ee;
-}
-
-.list-cell:focused,
-.list-cell:hover {
-    -fx-background-color: #90a6bb;
-}
-
-/*nút hành động */
 .button {
-    -fx-background-color: #0078d7;
-    -fx-text-fill: #ffffff;
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-padding: 10px 20px;
     -fx-font-size: 14px;
-    -fx-border-radius: 5px;
-    -fx-padding: 8px 16px;
+    -fx-font-weight: bold;
     -fx-cursor: hand;
-    -fx-effect: dropshadow(one-pass-box, rgba(0, 0, 0, 0.2), 2, 0, 1, 1);
+    -fx-min-width: 200px;
+    -fx-max-width: 250px;
+    -fx-transition: all 0.3s ease;
 }
-
 .button:hover {
-    -fx-background-color: #005a9e;
+    -fx-background-color: #45a049;
+    -fx-scale-x: 1.1;
+    -fx-scale-y: 1.1;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.3), 10, 0, 0, 3);
 }
-
-.button:focused {
-    -fx-background-color: #005a9e;
-}
-
 .button:pressed {
-    -fx-background-color: #00396d;
+    -fx-background-color: #388E3C;
+    -fx-scale-x: 0.95;
+    -fx-scale-y: 0.95;
 }
-
-/*hộp văn bản tìm kiếm*/
-.text-field {
-    -fx-background-color: #ffffff;
-    -fx-border-color: #cfd3d8;
-    -fx-border-radius: 5px;
-    -fx-padding: 6px;
-    -fx-font-size: 14px;
-}
-
-.vbox {
-    -fx-spacing: 10px;
+.button-layout {
     -fx-padding: 20px;
-    -fx-background-color: #ffffff;
-    -fx-border-color: #dcdfe3;
-    -fx-border-radius: 5px;
+    -fx-spacing: 15px;
+}
+.title {
+    -fx-font-size: 24px;
+    -fx-font-weight: 600;
+    -fx-font-family: "Arial";
+}
+
+.title-label {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333;
 }
