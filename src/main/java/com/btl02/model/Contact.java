@@ -44,7 +44,11 @@ public class Contact {
     public LocalDateTime getAddedTime() {
         return addedTime;
     }
-
+    //Lấy tên chính nhằm mục đích sắp xếp contact
+    public String getFirstName() {
+        String[] nameParts = fullName.trim().split("\\s+");
+        return nameParts[nameParts.length - 1];
+    }    
     @Override
     public String toString() {
         return fullName + " (" + phoneNumber + ")" + 

@@ -8,6 +8,7 @@ import com.btl02.view.MainAppView;
 public class Controler {
     public void start(Stage primaryStage) {
         ContactManager contactManager = new ContactManager();
+        contactManager.loadFromXmlFile("src/main/resources/contacts.xml");
         LoginDialog loginDialog = new LoginDialog(primaryStage, this);
 
         if (loginDialog.isLoggedIn()) {

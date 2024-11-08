@@ -35,3 +35,10 @@
     -fx-font-weight: bold;
     -fx-text-fill: #333;
 }
+.timkiem {
+    -fx-font-size: 12px;
+    -fx-padding: 5px;
+    -fx-border-color: #ccc;
+    -fx-background-color: #f9f9f9;
+}
+

@@ -8,7 +8,6 @@ public class UserDao {
 
     public UserDao() {
         users = new HashMap<>();
-        users.put("admin", "password");
         users.put("user", "1234");
     }
 

@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Contacts>
+    <Contact>
+        <FullName>Quang Lê Hùng</FullName>
+        <PhoneNumber>0912345671</PhoneNumber>
+        <AdditionalNumbers>Đà Nẵng</AdditionalNumbers>
+        <Group>Lam An</Group>
+        <AddedTime>2024-11-07T22:01:10.123456</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Thị Trần Mai</FullName>
+        <PhoneNumber>0931112245</PhoneNumber>
+        <AdditionalNumbers>Hà Nội</AdditionalNumbers>
+        <Group>Khách Hàng</Group>
+        <AddedTime>2024-11-07T22:02:15.456123</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Lan Nguyễn Minh</FullName>
+        <PhoneNumber>0912334455</PhoneNumber>
+        <AdditionalNumbers>TP HCM</AdditionalNumbers>
+        <Group>Lam An</Group>
+        <AddedTime>2024-11-07T22:03:20.789456</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Văn Hoàng Hải</FullName>
+        <PhoneNumber>0945566778</PhoneNumber>
+        <AdditionalNumbers>Huế</AdditionalNumbers>
+        <Group>Khách Hàng</Group>
+        <AddedTime>2024-11-07T22:04:25.123789</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Trường Nguyễn Văn</FullName>
+        <PhoneNumber>0912345672</PhoneNumber>
+        <AdditionalNumbers>Bắc Ninh</AdditionalNumbers>
+        <Group>Đối Tác</Group>
+        <AddedTime>2024-11-07T22:05:30.456123</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Ngọc Lê Thùy</FullName>
+        <PhoneNumber>0923456783</PhoneNumber>
+        <AdditionalNumbers>TP HCM</AdditionalNumbers>
+        <Group>Lam An</Group>
+        <AddedTime>2024-11-07T22:06:35.789123</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Phúc Trần Quang</FullName>
+        <PhoneNumber>0965432101</PhoneNumber>
+        <AdditionalNumbers>Hà Nội</AdditionalNumbers>
+        <Group>Khách Hàng</Group>
+        <AddedTime>2024-11-07T22:07:40.123456</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Minh Phạm Huy</FullName>
+        <PhoneNumber>0976543210</PhoneNumber>
+        <AdditionalNumbers>Đà Nẵng</AdditionalNumbers>
+        <Group>Đối Tác</Group>
+        <AddedTime>2024-11-07T22:08:45.456789</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Long Hoàng Bảo</FullName>
+        <PhoneNumber>0912345673</PhoneNumber>
+        <AdditionalNumbers>Huế</AdditionalNumbers>
+        <Group>Lam An</Group>
+        <AddedTime>2024-11-07T22:09:50.789123</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Hùng Nguyễn Văn</FullName>
+        <PhoneNumber>0918765432</PhoneNumber>
+        <AdditionalNumbers>Bắc Ninh</AdditionalNumbers>
+        <Group>Khách Hàng</Group>
+        <AddedTime>2024-11-07T22:11:00.456789</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Thắm Phạm Minh</FullName>
+        <PhoneNumber>0939876543</PhoneNumber>
+        <AdditionalNumbers>Hà Nội</AdditionalNumbers>
+        <Group>Lam An</Group>
+        <AddedTime>2024-11-07T22:12:05.789456</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Trung Đoàn Thành</FullName>
+        <PhoneNumber>0956781234</PhoneNumber>
+        <AdditionalNumbers>TP HCM</AdditionalNumbers>
+        <Group>Đối Tác</Group>
+        <AddedTime>2024-11-07T22:13:10.123789</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Mai Trần Huy</FullName>
+        <PhoneNumber>0967891234</PhoneNumber>
+        <AdditionalNumbers>Đà Nẵng</AdditionalNumbers>
+        <Group>Khách Hàng</Group>
+        <AddedTime>2024-11-07T22:14:15.456123</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Đức Lê Hoàng</FullName>
+        <PhoneNumber>0912345674</PhoneNumber>
+        <AdditionalNumbers>Hà Nội</AdditionalNumbers>
+        <Group>abc</Group>
+        <AddedTime>2024-11-07T22:15:20.789456</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Vy Nguyễn Hạnh</FullName>
+        <PhoneNumber>0922345675</PhoneNumber>
+        <AdditionalNumbers>TP HCM</AdditionalNumbers>
+        <Group>Đối Tác</Group>
+        <AddedTime>2024-11-07T22:16:25.123789</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Hoàng Đỗ Văn</FullName>
+        <PhoneNumber>0933456789</PhoneNumber>
+        <AdditionalNumbers>Bắc Ninh</AdditionalNumbers>
+        <Group>Lam An</Group>
+        <AddedTime>2024-11-07T22:17:30.456123</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Huy Đặng Minh</FullName>
+        <PhoneNumber>0917654321</PhoneNumber>
+        <AdditionalNumbers>Đà Nẵng</AdditionalNumbers>
+        <Group>abc</Group>
+        <AddedTime>2024-11-07T22:18:35.789456</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Quyên Trần Phương</FullName>
+        <PhoneNumber>0964321987</PhoneNumber>
+        <AdditionalNumbers>Huế</AdditionalNumbers>
+        <Group>Đối Tác</Group>
+        <AddedTime>2024-11-07T22:19:40.123456</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Hải Phạm Văn</FullName>
+        <PhoneNumber>0911234567</PhoneNumber>
+        <AdditionalNumbers>Hà Nội</AdditionalNumbers>
+        <Group>Lam An</Group>
+        <AddedTime>2024-11-07T22:20:45.456789</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Trúc Lê Thị</FullName>
+        <PhoneNumber>0921122334</PhoneNumber>
+        <AdditionalNumbers>TP HCM</AdditionalNumbers>
+        <Group>Đối Tác</Group>
+        <AddedTime>2024-11-07T22:21:50.789123</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Phạm Quỳnh Lan</FullName>
+        <PhoneNumber>0912345678</PhoneNumber>
+        <AdditionalNumbers>Hà Nội</AdditionalNumbers>
+        <Group>Nhân Viên</Group>
+        <AddedTime>2024-11-07T22:22:55.123456</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Nguyễn Thị Minh</FullName>
+        <PhoneNumber>0912345670</PhoneNumber>
+        <AdditionalNumbers>Đà Nẵng</AdditionalNumbers>
+        <Group>Khách Hàng</Group>
+        <AddedTime>2024-11-07T22:23:00.654321</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Trí Đức Võ</FullName>
+        <PhoneNumber>0935678901</PhoneNumber>
+        <AdditionalNumbers>Đà Nẵng</AdditionalNumbers>
+        <Group>abc</Group>
+        <AddedTime>2024-11-07T22:24:00.112233</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Thanh Tâm Bùi</FullName>
+        <PhoneNumber>0908765432</PhoneNumber>
+        <AdditionalNumbers>Hà Nội</AdditionalNumbers>
+        <Group>Ban Quản Lý</Group>
+        <AddedTime>2024-11-07T22:25:00.334455</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Quang Tuấn Bùi</FullName>
+        <PhoneNumber>0908765332</PhoneNumber>
+        <AdditionalNumbers>TP HCM</AdditionalNumbers>
+        <Group>Khách Hàng</Group>
+        <AddedTime>2024-11-07T22:31:00.101112</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Vân Anh Phan</FullName>
+        <PhoneNumber>0903456789</PhoneNumber>
+        <AdditionalNumbers>Hà Nội</AdditionalNumbers>
+        <Group>Khách Hàng</Group>
+        <AddedTime>2024-11-07T22:28:20.778899</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Thiên Lý Dương</FullName>
+        <PhoneNumber>0912345766</PhoneNumber>
+        <AdditionalNumbers>Hà Nội</AdditionalNumbers>
+        <Group>abc</Group>
+        <AddedTime>2024-11-07T22:32:15.202223</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Nguyễn Thị Lan</FullName>
+        <PhoneNumber>0912678901</PhoneNumber>
+        <AdditionalNumbers>TP HCM</AdditionalNumbers>
+        <Group>Nhân Viên</Group>
+        <AddedTime>2024-11-07T22:23:15.987654</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Nguyễn Hương Giang</FullName>
+        <PhoneNumber>0909988776</PhoneNumber>
+        <AdditionalNumbers>Hà Nội</AdditionalNumbers>
+        <Group>Nhân Viên</Group>
+        <AddedTime>2024-11-08T23:45:34.500093900</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Hải Đăng Lê</FullName>
+        <PhoneNumber>0912345679</PhoneNumber>
+        <AdditionalNumbers>Hải Phòng</AdditionalNumbers>
+        <Group>Khách Hàng</Group>
+        <AddedTime>2024-11-07T22:24:10.223344</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Nguyễn Minh Tuấn</FullName>
+        <PhoneNumber>0934567890</PhoneNumber>
+        <AdditionalNumbers>TP HCM</AdditionalNumbers>
+        <Group>Khách Hàng</Group>
+        <AddedTime>2024-11-08T23:45:53.677811200</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Nguyễn Trung Kiên</FullName>
+        <PhoneNumber>0932345678</PhoneNumber>
+        <AdditionalNumbers>Hà Nội</AdditionalNumbers>
+        <Group>Ban Quản Lý</Group>
+        <AddedTime>2024-11-08T23:46:07.705578900</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Trần Phương Lan</FullName>
+        <PhoneNumber>0912876543</PhoneNumber>
+        <AdditionalNumbers>Đà Nẵng</AdditionalNumbers>
+        <Group>Nhân Viên</Group>
+        <AddedTime>2024-11-08T23:50:56.366668600</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Vũ Minh Thiện</FullName>
+        <PhoneNumber>0907654321</PhoneNumber>
+        <AdditionalNumbers>Hải Phòng</AdditionalNumbers>
+        <Group>Khách Hàng</Group>
+        <AddedTime>2024-11-07T22:35:10.505556</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Hà Hoàng Vũ</FullName>
+        <PhoneNumber>0912345999</PhoneNumber>
+        <AdditionalNumbers>TP HCM</AdditionalNumbers>
+        <Group>abc</Group>
+        <AddedTime>2024-11-07T22:28:10.667788</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Nguyễn Thị Lan</FullName>
+        <PhoneNumber>0912345671</PhoneNumber>
+        <AdditionalNumbers>Hà Nội</AdditionalNumbers>
+        <Group>Khách Hàng</Group>
+        <AddedTime>2024-11-07T22:29:45.112233</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Phạm Tuấn Anh</FullName>
+        <PhoneNumber>0932345890</PhoneNumber>
+        <AdditionalNumbers>TP HCM</AdditionalNumbers>
+        <Group>Nhân Viên</Group>
+        <AddedTime>2024-11-08T23:51:31.195846</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Trí Đức Võ</FullName>
+        <PhoneNumber>0935678901</PhoneNumber>
+        <AdditionalNumbers>Đà Nẵng</AdditionalNumbers>
+        <Group>Khách Hàng</Group>
+        <AddedTime>2024-11-07T22:24:00.112233</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Trí Đức Võ</FullName>
+        <PhoneNumber>0935678902</PhoneNumber>
+        <AdditionalNumbers>Hà Nội</AdditionalNumbers>
+        <Group>Ban Quản Lý</Group>
+        <AddedTime>2024-11-07T22:34:40.667788</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Đỗ Xuân Vinh</FullName>
+        <PhoneNumber>1900</PhoneNumber>
+        <AdditionalNumbers>Hà Nội</AdditionalNumbers>
+        <Group>1QLDB</Group>
+        <AddedTime>2024-11-08T09:37:18.028380500</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Nguyễn Văn Yên</FullName>
+        <PhoneNumber>19001</PhoneNumber>
+        <AdditionalNumbers>Hà Nội</AdditionalNumbers>
+        <Group>1QLDB</Group>
+        <AddedTime>2024-11-08T23:36:00.508807800</AddedTime>
+    </Contact>
+    <Contact>
+        <FullName>Nguyễn Thị Tâm</FullName>
+        <PhoneNumber>190000</PhoneNumber>
+        <AdditionalNumbers>Hà NỘi</AdditionalNumbers>
+        <Group>demo</Group>
+        <AddedTime>2024-11-08T21:44:59.530954800</AddedTime>
+    </Contact>
+</Contacts>

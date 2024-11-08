@@ -62,7 +62,10 @@ public class ContactView {
             showAlert("Thông báo", "Tên và số điện thoại không được để trống.");
             return;
         }
-
+        if (!phone.matches("\\d+")) {
+            showAlert("Thông báo", "Số điện thoại không hợp lệ. Vui lòng chỉ nhập các chữ số.");
+            return;
+        }        
         if (dialogTitle.equals("Thêm liên hệ")) {
             if (contactManager.checkPhoneNumberExists(phone)) {
                 showAlert("Thông báo", "Số điện thoại đã tồn tại trong danh bạ.");
@@ -70,10 +73,12 @@ public class ContactView {
             }
             Contact newContact = new Contact(name, phone, additionalNumbers, group);
             onContactAdded.accept(newContact);
+            showAlert("Thông báo", "Liên hệ đã được thêm thành công.");
         } else {
             //sửa liên hệ
             Contact updatedContact = new Contact(name, phone, additionalNumbers, group);
             onContactUpdated.accept(updatedContact);
+            showAlert("Thông báo", "Liên hệ đã được cập nhật thành công.");
         }
         dialog.close();
     }
